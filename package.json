@@ -1,0 +1,22 @@
+{
+	"version": "1.0.0",
+	"name": "portfolio",
+	"main": "index.js",
+	"description": "",
+	"scripts": {
+		"start": "node index"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mohammadzaidsh/Portfolio.git"
+	},
+	"author": "Mohammad Shehadeh",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mohammadzaidsh/Portfolio/issues"
+	},
+	"homepage": "https://github.com/mohammadzaidsh/Portfolio#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
