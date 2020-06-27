@@ -1,8 +1,14 @@
 # Portfolio
 
+###### install npm
+```
+npm i
+```
 
-
-install node js
+###### install pug
+```
+npm install pug
+```
 
 ###### To Start watch sass changes run:
 ```
