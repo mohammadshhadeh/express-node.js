@@ -3,5 +3,5 @@ node_modules/
 *.log
 *.sql
 *.sqlite
-
+.github/workflows
 _DS_Store
