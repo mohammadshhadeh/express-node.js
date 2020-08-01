@@ -2,12 +2,7 @@
 
 ###### install npm
 ```
-npm i
-```
-
-###### install pug
-```
-npm install pug
+npm install
 ```
 
 ###### To Start watch sass changes run:
