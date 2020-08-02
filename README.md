@@ -16,4 +16,4 @@ npm start
 ```
 
 ###### Port number
-served on port 3000
+Listening on port 3000
