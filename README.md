@@ -16,4 +16,3 @@ npm start
 ```
 
 ###### Port number
-Listening on port 3000
