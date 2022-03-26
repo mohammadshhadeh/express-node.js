@@ -1,18 +1,21 @@
-# 
+# Express - Nodejs
 
 ###### install npm
 ```
 npm install
 ```
 
-###### To Start watch sass changes run:
+###### To start server:
 ```
-> sass --watch assets/sass/main.scss:assets/css main.min.css --style compressed
-```
-
-###### Run index.js
-```
-npm start
+> npm run start
 ```
 
-###### Port number
+###### To build js
+```
+npm run build:js
+```
+
+###### To build css
+```
+npm run build:css
+```
