@@ -1,4 +1,4 @@
-$black: #000;
+$dark: #100f10;
 $white: #fff;
 
 *,
@@ -19,8 +19,8 @@ input {
 
 header,
 footer {
-    background: #333;
-    color: white;
+    background: $dark;
+    color: $white;
     text-align: center;
     padding: 32px;
 }
