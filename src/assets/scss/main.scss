@@ -1,0 +1,33 @@
+$black: #000;
+$white: #fff;
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    all: unset;
+}
+
+input {
+    all: unset;
+}
+
+header,
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 32px;
+}
+
+main {
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
