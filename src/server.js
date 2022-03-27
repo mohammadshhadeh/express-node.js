@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-
 const pug = require('pug');
 
 // Working with file and directory paths
